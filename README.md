@@ -1,2 +1,2 @@
 # Folio
-My new personal website/portfolio, using Django.
+My personal website/portfolio.
